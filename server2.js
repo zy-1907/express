@@ -12,3 +12,4 @@ app.get('/world',(request,response)=>{
 })
 
 app.listen(port,()=>console.log('express server'))
+//··～
